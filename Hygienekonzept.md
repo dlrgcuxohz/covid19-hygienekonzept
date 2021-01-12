@@ -6,7 +6,7 @@ Dieses Hygienekonzept gilt ab 1. Januar 2021 und ist bindend für alle Lehrgäng
 
 ## Durchführung von Lehrgängen
 
-In folgenden Fällen werden Lehrgänge des Bezirkes nicht durchgeführt, auch wenn sie bereits begonnen haben:
+In folgenden Fällen werden Lehrgänge des Bezirkes nicht als Präsenzveranstaltung durchgeführt, auch wenn sie bereits begonnen haben:
 
 1. Der Veranstaltungsort liegt in einem Landkreis, dessen 7-Tage-Inzidenz laut RKI über 50/100.000 Einwohner liegt,
 2. Beide Landkreise (Cuxhaven und Osterholz), die im Bezirk liegen haben jeweils eine 7-Tage-Inzidenz laut RKI über 50/100.00 Einwohner.
