@@ -23,9 +23,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 5. Personen, die in den letzten 14 Tagen Kontakt zu einem bestätigten Covid-19-Fall hatten;
 6. Personen, die unter Verlust des Geruchs- und/oder Geschmackssinns leiden.
 
-## TODO: Was ist mit geimpften?
-
-Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
+Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
 ## Hygienemaßnahmen während des Lehrganges
 
