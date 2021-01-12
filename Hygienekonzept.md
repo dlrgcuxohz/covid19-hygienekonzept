@@ -38,6 +38,7 @@ Während der Lehrgänge gelten folgende Hygienemaßnahmen:
 6. An jedem Eingang zum Seminarraum sind Desinfektionsmittelspender bereitzustellen.
 7. Körperkontakt (Hände schütteln, Umarmungen usw.) sind zu vermeiden. Die Teilnehmer\*innen und Ausbilder\*innen sollten regelmäßig Hände waschen. Dazu sind ausreichend Einmal-Papierhandtücher und Seife zur Verfügung zu stellen.
 8. Räume, in denen Essen zubereitet wird, dürfen durch Teilnehmer\*innen nicht betreten werden. Sollte ein Büfett angeboten werden, erfolgt die Ausgabe durch das Ausbilder\*innenteam oder durch Personen, die von der ausrichtenden Ortsgruppe bestimmt sind. Die Ausgabe erfolgt in ausreichendem Abstand zu den Teilnehmer\*innen sowie mit Mund-Nasen-Bedeckung und regelmäßig zu wechselnden Einmalhandschuhen.
+9. Teilnehmer\*innen müssen selbstverständlich ihr eigenes Schreibmaterial mitbringen.
 
 ## Finanzierung der Hygienemaßnahmen
 
