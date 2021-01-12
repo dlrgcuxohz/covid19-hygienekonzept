@@ -17,11 +17,12 @@ Von diesen Richtlinien kann abgewichen werden, falls es sich bei der Maßnahme u
 
 Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie bereits begonnen haben, teilnehmen:
 
-1. Personen, die sich innerhalb der letzten 7 Tage in einer Region aufgehalten haben, deren 7-Tage-Inzidenz laut RKI über 50/100.000 Einwohner liegt;
-2. Personen, die sich innerhalb der letzten 7 Tage in einem Risikogebiet im Ausland laut RKI aufgehalten haben;
+1. Personen mit bestätigt positivem SARS-CoV-2-Test bzw. Personen in Quarantäne;
 4. Personen mit grippeähnlichen Symptomen (z.B. Fieber, Husten, Atemnot);
 5. Personen, die in den letzten 14 Tagen Kontakt zu einem bestätigten Covid-19-Fall hatten;
-6. Personen, die unter Verlust des Geruchs- und/oder Geschmackssinns leiden.
+6. Personen, die unter Verlust des Geruchs- und/oder Geschmackssinns leiden;
+1. Personen, die sich innerhalb der letzten 7 Tage in einer Region aufgehalten haben, deren 7-Tage-Inzidenz laut RKI über 50/100.000 Einwohner liegt;
+2. Personen, die sich innerhalb der letzten 7 Tage in einem Risikogebiet im Ausland laut RKI aufgehalten haben.
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
