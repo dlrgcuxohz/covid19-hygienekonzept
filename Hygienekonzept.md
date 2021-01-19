@@ -44,7 +44,9 @@ Während der Lehrgänge gelten folgende Hygienemaßnahmen:
 
 ## Finanzierung der Hygienemaßnahmen
 
-Für die Dauer der Covid-19-Pandemie wird die Dienstleistungspauschale, die der ausrichtenden Ortsgruppe pro Teilnehmer\*in/Referent\*in gezahlt wird, um 2,00 Euro auf 4,00 Euro angehoben, um die Kosten für die gesteigerten Hygienemaßnahmen zu decken. Diese Regelung ist gültig vom 1. Januar 2021 bis 31. Dezember 2021.
+Für die Dauer der Covid-19-Pandemie wird die Dienstleistungspauschale, die der ausrichtenden Ortsgruppe pro Teilnehmer\*in/Referent\*in gezahlt wird, um 2,00 Euro auf 4,00 Euro angehoben, um die Kosten für die gesteigerten Hygienemaßnahmen zu decken. Diese Regelung ist gültig vom 1. Januar 2021 bis 31. Dezember 2021. 
+
+Der Bezirk stellt das nötige Material zur Verfügung soweit möglich. Sollten diese Maßnahmen noch nicht ausreichen, um eventuelle Kosten der Ortsgruppe zu decken, ist im Einzelfall Rücksprache mit dem\*der Schatzmeister\*in des Bezirks zu halten.
 
 ## Sonstiges
 
