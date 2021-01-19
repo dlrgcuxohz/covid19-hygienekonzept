@@ -24,7 +24,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 1. Personen, die sich innerhalb der letzten 7 Tage in einer Region aufgehalten haben, deren 7-Tage-Inzidenz laut RKI über 50/100.000 Einwohner liegt;
 2. Personen, die sich innerhalb der letzten 7 Tage in einem Risikogebiet im Ausland laut RKI aufgehalten haben.
 
-Personen unter den Punkten 5. und 6. können am Lehrgang teilnehmen, sofern sie durch einen maximal 48 Stunden vor Teilnahme durchgeführten PCR-Test eine akute Infektion mit SARS-CoV-2 ausschließen können.
+Personen unter den Punkten 5. und 6. können am Lehrgang teilnehmen, sofern sie durch einen maximal 48 Stunden vor Teilnahme durchgeführten PCR- oder Antigen-Schnell-Test eine akute Infektion mit SARS-CoV-2 ausschließen können.
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
