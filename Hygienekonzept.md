@@ -2,7 +2,7 @@
 
 Seit März 2020 beschäftigt uns die Covid-19-Pandemie. Um im Rahmen der Pandemie die Rettungsschwimmer\*innen und andere Aktiven im DLRG-Bezirk Cuxhaven-Osterholz e.V. aus- und fortbilden zu können, ist es notwendig, Maßnahmen zu definieren, unter denen dies so sicher wie möglich durchführbar ist. Dieses Hygienekonzept soll diesen Anspruch erfüllen. 
 
-Dieses Hygienekonzept gilt ab 1. Januar 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
+Dieses Hygienekonzept gilt ab 26. Mai 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
 
 ## Durchführung von Lehrgängen
 
@@ -18,15 +18,13 @@ Von diesen Richtlinien kann abgewichen werden, falls es sich bei der Maßnahme u
 Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie bereits begonnen haben, teilnehmen:
 
 1. Personen mit bestätigt positivem SARS-CoV-2-Test bzw. Personen in Quarantäne;
-4. Personen mit grippeähnlichen Symptomen (z.B. Fieber, Husten, Atemnot);
-5. Personen, die in den letzten 14 Tagen Kontakt zu einem bestätigten Covid-19-Fall hatten;
-6. Personen, die unter Verlust des Geruchs- und/oder Geschmackssinns leiden;
-1. Personen, die sich innerhalb der letzten 7 Tage in einer Region aufgehalten haben, deren 7-Tage-Inzidenz laut RKI über 50/100.000 Einwohner liegt;
-2. Personen, die sich innerhalb der letzten 7 Tage in einem Risikogebiet im Ausland laut RKI aufgehalten haben.
-
-Personen unter den Punkten 5. und 6. können am Lehrgang teilnehmen, sofern sie durch einen maximal 48 Stunden vor Teilnahme durchgeführten PCR- oder Antigen-Schnell-Test eine akute Infektion mit SARS-CoV-2 ausschließen können.
+2. Personen mit Symptomen, die auf eine Infektion mit SARS-CoV-2 hinweisen können (z.B. Fieber, Husten, Atemnot, Verlust des Geruchs- oder Geschmackssinns);
+3. Personen, die in den letzten 14 Tagen Kontakt zu einem bestätigten Covid-19-Fall hatten;
+4. Personen, die sich innerhalb der letzten 7 Tage in einem Virusvariantengebiet laut RKI aufgehalten haben;
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
+
+Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen mit Hilfe eines maximal 24 Stunden vor Teilnahme durchgeführten PCR- oder Antigen-Schnell-Test eine akute Infektion mit SARS-CoV-2 ausschließen können. Von dieser Pflicht befreit sind vollständig geimpfte Personen gemäß § 2 Nr. 3 SchAusnahmV sowie genesene Personen gemäß § 2 Nr. 5 SchAusnahmV.
 
 ## Hygienemaßnahmen während des Lehrganges
 
@@ -52,5 +50,5 @@ Der Bezirk stellt das nötige Material zur Verfügung soweit möglich. Sollten d
 
 Der Bezirk stellt Schilder mit den gängigen Hygieneregeln zur Verfügung, die durch die ausrichtende Ortsgruppe ausgehängt werden.
 
-Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021.
+Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021. Zuletzt geändert auf der Bezirksvorstandssitzung am 25. Mai 2021.
 
