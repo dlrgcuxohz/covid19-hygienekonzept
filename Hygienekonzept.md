@@ -12,9 +12,9 @@ Die Durchführung von Lehrgängen wird auf Basis der jeweils gültigen Corona-Ve
 
 Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie bereits begonnen haben, teilnehmen:
 
-1. Personen mit bestätigt positivem SARS-CoV-2-Test bzw. Personen in Quarantäne;
-2. Personen mit Symptomen, die auf eine Infektion mit SARS-CoV-2 hinweisen können (z.B. Fieber, Husten, Atemnot, Verlust des Geruchs- oder Geschmackssinns);
-3. Personen, die in den letzten 14 Tagen Kontakt zu einem bestätigten Covid-19-Fall hatten;
+1. Personen mit bestätigt positivem SARS-CoV-2-Test;
+2. Personen mit Symptomen, die auf eine Infektion mit SARS-CoV-2 hinweisen können (z.B. Fieber, Husten, Atemnot, Verlust des Geruchs- oder Geschmackssinns); 
+3. Personen in Quarantäne oder häuslicher Isolation;
 4. Personen, die sich innerhalb der letzten 7 Tage in einem Virusvariantengebiet laut RKI aufgehalten haben;
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
