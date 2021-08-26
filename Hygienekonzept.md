@@ -2,7 +2,7 @@
 
 Seit März 2020 beschäftigt uns die Covid-19-Pandemie. Um im Rahmen der Pandemie die Rettungsschwimmer\*innen und andere Aktiven im DLRG-Bezirk Cuxhaven-Osterholz e.V. aus- und fortbilden zu können, ist es notwendig, Maßnahmen zu definieren, unter denen dies so sicher wie möglich durchführbar ist. Dieses Hygienekonzept soll diesen Anspruch erfüllen. 
 
-Dieses Hygienekonzept gilt ab 26. Mai 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
+Dieses Hygienekonzept gilt ab 1. Oktober 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
 
 ## Durchführung von Lehrgängen
 
@@ -19,9 +19,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
-Bis 14. Oktober 2021 gilt: Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen mit Hilfe eines maximal 24 Stunden vor Teilnahme durchgeführten Antigen-Schnell-Test oder eines maximal 48 Stunden vor Teilnahme durchgeführten PCR-Test eine akute Infektion mit SARS-CoV-2 ausschließen können. Von dieser Pflicht befreit sind vollständig geimpfte Personen gemäß § 2 Nr. 3 SchAusnahmV sowie genesene Personen gemäß § 2 Nr. 5 SchAusnahmV.
-
-Ab 15. Oktober 2021 gilt: Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen Nachweis über eine vollständige Impfung gemäß § 2 Nr. 3 SchAusnahmV bzw. einen Genesenennachweis gemäß § 2 Nr. 5 SchAusnahmV erbringen.
+Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen Nachweis über eine vollständige Impfung gemäß § 2 Nr. 3 SchAusnahmV bzw. einen Genesenennachweis gemäß § 2 Nr. 5 SchAusnahmV erbringen.
 
 ## Hygienemaßnahmen während des Lehrganges
 
