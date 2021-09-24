@@ -2,7 +2,7 @@
 
 Seit März 2020 beschäftigt uns die Covid-19-Pandemie. Um im Rahmen der Pandemie die Rettungsschwimmer\*innen und andere Aktiven im DLRG-Bezirk Cuxhaven-Osterholz e.V. aus- und fortbilden zu können, ist es notwendig, Maßnahmen zu definieren, unter denen dies so sicher wie möglich durchführbar ist. Dieses Hygienekonzept soll diesen Anspruch erfüllen. 
 
-Dieses Hygienekonzept gilt ab 1. Oktober 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
+Dieses Hygienekonzept gilt ab 1. November 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
 
 ## Durchführung von Lehrgängen
 
@@ -35,7 +35,7 @@ Während der Lehrgänge gelten folgende Hygienemaßnahmen:
 
 ## Finanzierung der Hygienemaßnahmen
 
-Für die Dauer der Covid-19-Pandemie wird die Dienstleistungspauschale, die der ausrichtenden Ortsgruppe pro Teilnehmer\*in/Referent\*in gezahlt wird, um 2,00 Euro auf 4,00 Euro angehoben, um die Kosten für die gesteigerten Hygienemaßnahmen zu decken. Diese Regelung ist gültig vom 1. Januar 2021 bis 31. Dezember 2021. 
+Für die Dauer der Covid-19-Pandemie wird die Dienstleistungspauschale, die der ausrichtenden Ortsgruppe pro Teilnehmer\*in/Referent\*in gezahlt wird, um 2,00 Euro auf 4,00 Euro angehoben, um die Kosten für die gesteigerten Hygienemaßnahmen zu decken. Diese Regelung ist gültig vom 1. Januar 2021 bis 30. Juni 2022. 
 
 Der Bezirk stellt das nötige Material zur Verfügung soweit möglich. Sollten diese Maßnahmen noch nicht ausreichen, um eventuelle Kosten der Ortsgruppe zu decken, ist im Einzelfall Rücksprache mit dem\*der Schatzmeister\*in des Bezirks zu halten.
 
