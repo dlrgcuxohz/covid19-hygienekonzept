@@ -19,7 +19,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
-Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen Nachweis über eine vollständige Impfung gemäß § 2 Nr. 3 SchAusnahmV bzw. einen Genesenennachweis gemäß § 2 Nr. 5 SchAusnahmV erbringen.
+Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen 2G-Nachweis nach der am jeweiligen Veranstaltungsort gültigen Corona-Verordnung erbringen. Sollte es für die Personengruppe nach Verordnung nicht nötig sein, einen 2G-Nachweis zu erbringen, ist ein maximal 24 Stunden alter Antigen- oder PCR-Testnachweis (bzw. ein 2G-Nachweis) zu erbringen. 
 
 ## Hygienemaßnahmen während des Lehrganges
 
