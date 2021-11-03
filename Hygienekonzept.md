@@ -43,5 +43,5 @@ Der Bezirk stellt das nötige Material zur Verfügung soweit möglich. Sollten d
 
 Der Bezirk stellt Schilder mit den gängigen Hygieneregeln zur Verfügung, die durch die ausrichtende Ortsgruppe ausgehängt werden.
 
-Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021. Zuletzt geändert auf der Bezirksvorstandssitzung am 7. September 2021.
+Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021. Zuletzt geändert auf der Bezirksvorstandssitzung am 26. Oktober 2021.
 
