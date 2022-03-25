@@ -6,7 +6,7 @@ Dieses Hygienekonzept gilt ab 6. April 2022 und ist bindend für alle Lehrgänge
 
 ## Durchführung von Lehrgängen
 
-Die Durchführung von Lehrgängen wird auf Basis der jeweils gültigen Corona-Verordnung des Landes Niedersachsen entschieden. Sollte die Verordnung des Veranstaltungsortes dem entgegen stehen, wird der Lehrgang nicht durchgeführt. 
+Die Durchführung von Lehrgängen wird auf Basis der jeweils gültigen Corona-Verordnung des Landes Niedersachsen sowie eigener Risikoabwägungen des Veranstalters in Hinblick auf Teilnehmendenzahl, Lehrgangsart u.a. entschieden. Sollte die Verordnung des Veranstaltungsortes dem entgegen stehen, wird der Lehrgang nicht durchgeführt. 
 
 ## Teilnahmekreis
 
