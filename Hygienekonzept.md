@@ -19,7 +19,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
-Sämtliche Personen ab 18 Jahren, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen 2G-Nachweis (Nachweis über eine vollständige Impfung oder Genesung (innerhalb der letzten drei Monate)) erbringen. Personen unter 18 Jahren müssen einen maximal 24 Stunden alter Antigen- oder PCR-Testnachweis (bzw. einen 2G-Nachweis) erbringen. 
+Sämtliche Personen ab 18 Jahren, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen 2G-Nachweis (Nachweis über eine vollständige Impfung oder Genesung (innerhalb der letzten drei Monate)) erbringen. Personen unter 18 Jahren müssen einen maximal 24 Stunden alten Antigen- oder PCR-Testnachweis (bzw. einen 2G-Nachweis) erbringen. 
 
 ## Hygienemaßnahmen während des Lehrganges
 
