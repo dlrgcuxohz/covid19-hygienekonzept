@@ -2,11 +2,11 @@
 
 Seit März 2020 beschäftigt uns die Covid-19-Pandemie. Um im Rahmen der Pandemie die Rettungsschwimmer\*innen und andere Aktiven im DLRG-Bezirk Cuxhaven-Osterholz e.V. aus- und fortbilden zu können, ist es notwendig, Maßnahmen zu definieren, unter denen dies so sicher wie möglich durchführbar ist. Dieses Hygienekonzept soll diesen Anspruch erfüllen. 
 
-Dieses Hygienekonzept gilt ab 1. November 2021 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
+Dieses Hygienekonzept gilt ab 6. April 2022 und ist bindend für alle Lehrgänge und lehrgangsähnlichen Veranstaltungen, die durch den DLRG-Bezirk Cuxhaven-Osterholz e.V. durchgeführt werden. Für sämtliche anderen Veranstaltungen wird empfohlen, sich an diesen Regelungen zu orientieren. Es ersetzt alle vorhergehenden Beschlüsse des Bezirksvorstandes zu Hygienemaßnahmen bei und der Durchführung von Lehrgängen während der Covid-19-Pandemie.
 
 ## Durchführung von Lehrgängen
 
-Die Durchführung von Lehrgängen wird auf Basis der jeweils gültigen Corona-Verordnung des Landes Niedersachsen entschieden. Sollte die Verordnung des Veranstaltungsortes dem entgegen stehen, wird der Lehrgang nicht durchgeführt. 
+Die Durchführung von Lehrgängen wird auf Basis der jeweils gültigen Corona-Verordnung des Landes Niedersachsen sowie eigener Risikoabwägungen des Veranstalters in Hinblick auf Teilnehmendenzahl, Lehrgangsart u.a. entschieden. Sollte die Verordnung des Veranstaltungsortes dem entgegen stehen, wird der Lehrgang nicht durchgeführt. 
 
 ## Teilnahmekreis
 
@@ -19,7 +19,7 @@ Folgende Personen dürfen nicht an Lehrgängen des Bezirkes, auch wenn sie berei
 
 Sollte durch diese Regelung eine ordnungsgemäße Durchführung nicht mehr gewährleistet sein (z.B. da die Lehrgangsleitung oder die Referent\*innen betroffen sind), wird der Lehrgang nicht durchgeführt.
 
-Sämtliche Personen, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen 2G-Nachweis nach der am jeweiligen Veranstaltungsort gültigen Corona-Verordnung erbringen. Sollte es für die Personengruppe nach Verordnung nicht nötig sein, einen 2G-Nachweis zu erbringen, ist ein maximal 24 Stunden alter Antigen- oder PCR-Testnachweis (bzw. ein 2G-Nachweis) zu erbringen. 
+Sämtliche Personen ab 18 Jahren, die am Lehrgang als Ausbilder\*in oder Teilnehmer\*in teilnehmen möchten, müssen einen 2G-Nachweis (Nachweis über eine vollständige Impfung oder Genesung (innerhalb der letzten drei Monate)) erbringen. Personen unter 18 Jahren müssen einen maximal 24 Stunden alten Antigen- oder PCR-Testnachweis (bzw. einen 2G-Nachweis) erbringen. 
 
 ## Hygienemaßnahmen während des Lehrganges
 
@@ -43,5 +43,5 @@ Der Bezirk stellt das nötige Material zur Verfügung soweit möglich. Sollten d
 
 Der Bezirk stellt Schilder mit den gängigen Hygieneregeln zur Verfügung, die durch die ausrichtende Ortsgruppe ausgehängt werden.
 
-Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021. Zuletzt geändert auf der Bezirksvorstandssitzung am 26. Oktober 2021.
+Beschlossen auf der Bezirksvorstandssitzung am 19. Januar 2021. Zuletzt geändert auf der Bezirksvorstandssitzung am 5. April 2022.
 
